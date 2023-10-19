@@ -9,7 +9,7 @@
 - 🌱I'm currently learning **React.js**
 - 📫 how to reach me **leydysoto6.20@gmail.com**
 - you can see [portafolio](https://leydy-cv.netlify.app/)
-- 💬 Ask me about  **HTML ,CSS,javaScript,react,python**
+- 💬 Ask me about  **HTML ,CSS,javaScript,react,python,java**
 
 
 
